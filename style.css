@@ -106,7 +106,7 @@ h1,h2,h3{
     display: flex;
     justify-content: space-between;
     gap: 24px;
-    /* margin: 40px 340px 0px 340px; */
+    margin-top: 40px;
 
  }
 
