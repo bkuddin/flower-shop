@@ -263,7 +263,7 @@ h1,h2,h3{
 /* Latest Deals Styles */
 
 .latest-deals{
-   background-image: url(/images/latestdeals.png);
+   background-image: url(images/latestdeals.png);
    background-repeat: no-repeat;
    background-size: cover;
    display: flex;
