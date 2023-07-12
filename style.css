@@ -273,10 +273,11 @@ h1,h2,h3{
    background-image: url(images/latestdeals.png);
    background-repeat: no-repeat;
    background-size: cover;
-   max-width: 1087px;  
-   margin: auto; 
+   /* max-width: 1025px;   */
+   /* margin: auto;  */
    margin-bottom: 130px;
-   padding: 85px 100px;
+   padding: 100px 120px;
+   
    
    /* display: flex;
    justify-content: space-between; */
